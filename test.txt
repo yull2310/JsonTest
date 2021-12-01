@@ -1,0 +1,11 @@
+{
+  "operation": "add",
+  "data": {
+    "alarm_name": "这是木马病毒",
+    "event_type_code": "behavior",
+    "level": "high",
+    "alarm_category": "告警测录",
+    "link_region": "223344",
+    "rule_content": "这是规则"
+  }
+}
